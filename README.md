@@ -1,16 +1,16 @@
-# 🏠 PolyHome – Application Android de Domotique
+# PolyHome – Application Android de Domotique
 
 PolyHome est une application Android développée en Kotlin permettant de contrôler une maison connectée via une API REST.
 
 L’application permet de gérer :
-- 💡 Les lumières
-- 🪟 Les volets roulants
-- 🚗 La porte de garage
-- 👥 Les utilisateurs d’une maison (selon le rôle)
+-  Les lumières
+-  Les volets roulants
+-  La porte de garage
+-  Les utilisateurs d’une maison (selon le rôle)
 
 ---
 
-## 👥 Participants
+## Participants
 
 | Nom | Rôle |
 |------|------|
@@ -19,9 +19,9 @@ L’application permet de gérer :
 
 ---
 
-## 📱 Fonctionnalités
+##  Fonctionnalités
 
-### 🔐 Authentification
+### Authentification
 - Inscription
 - Connexion
 - Gestion du token
@@ -29,14 +29,14 @@ L’application permet de gérer :
 
 ---
 
-### 🏠 Gestion des maisons
+### Gestion des maisons
 - Affichage des maisons de l’utilisateur
 - Accès aux détails d’une maison
 - Gestion des utilisateurs (uniquement pour le propriétaire)
 
 ---
 
-### 💡 Gestion des lumières
+### Gestion des lumières
 - Voir la liste des lumières
 - Allumer / Éteindre une lumière
 - Éteindre toutes les lumières
@@ -44,7 +44,7 @@ L’application permet de gérer :
 
 ---
 
-### 🪟 Gestion des volets
+### Gestion des volets
 - Ouvrir / Fermer / Stop un volet
 - Ouvrir tous les volets
 - Fermer tous les volets
@@ -52,13 +52,13 @@ L’application permet de gérer :
 
 ---
 
-### 🚗 Gestion du garage
+### Gestion du garage
 - Ouvrir / Fermer / Stop la porte
 - Affichage de l’état
 
 ---
 
-## 🎨 Design
+## Design
 
 - Couleur principale : `#20484d`
 - Cartes avec bordures arrondies
@@ -68,7 +68,7 @@ L’application permet de gérer :
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - Kotlin
 - Android SDK
@@ -79,7 +79,7 @@ L’application permet de gérer :
 
 ---
 
-## 🌐 API utilisée : https://polyhome.lesmoulinsdudev.com/api
+## API utilisée : https://polyhome.lesmoulinsdudev.com/api
 
 
 Endpoints principaux :
@@ -91,7 +91,7 @@ Endpoints principaux :
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Cloner le projet :
 
